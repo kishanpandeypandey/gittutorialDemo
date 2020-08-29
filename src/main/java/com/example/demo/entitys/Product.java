@@ -11,7 +11,8 @@ import javax.persistence.OneToMany;
 
 public class Product {
 	
-	private Long productId;
+	private Long productId     ;
+        private String class;
 	private String productName;
 	private int productDiscount;
 	private String productColour;

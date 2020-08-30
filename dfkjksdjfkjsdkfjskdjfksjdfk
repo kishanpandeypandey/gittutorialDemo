@@ -1,0 +1,29 @@
+[33mcommit 395623bbd419f5cee8133402e069bea6bb0b47ee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kishan <pandeykishan626@gmail.com>
+Date:   Sat Aug 29 23:54:24 2020 -0700
+
+    delete text.txt file form repository
+
+[33mcommit 576a139d756d7fe795726a337b767ecd67bb8a7e[m
+Author: kishan <pandeykishan626@gmail.com>
+Date:   Sat Aug 29 23:42:33 2020 -0700
+
+    direct commit
+
+[33mcommit 6dd43c88f3473bf2d3dbe6cf85c35104866435d6[m
+Author: kishan <pandeykishan626@gmail.com>
+Date:   Sat Aug 29 09:05:45 2020 -0700
+
+    add git commit
+
+[33mcommit acb7989899ddf82200bf81c09376820a0c142b66[m
+Author: kishan <pandeykishan626@gmail.com>
+Date:   Sat Aug 29 08:16:06 2020 -0700
+
+    second commit
+
+[33mcommit 3acd44069c2cb19b41421c27490b874bb8436060[m
+Author: kishan <pandeykishan626@gmail.com>
+Date:   Sat Aug 29 07:51:29 2020 -0700
+
+    intial commit
